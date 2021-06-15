@@ -1,0 +1,54 @@
+ls -lh
+ll
+ls -lh
+ll
+ls -lh
+ls -lh
+cd old_files/
+ll
+ls -lh
+clear
+ls -lh
+cd Desktop/
+ll
+ls -lh
+cd ../
+ls -lh
+clear
+ls -lh
+ls -lh
+clear
+pwd
+cd GoogleDrive/
+ll
+ls -lh
+cd Doctorado/QT/CellRW/CellRW/photoncellrw/
+ll
+ls -lh
+ls -lh
+clear
+ls -lh
+cd GoogleDrive/Doctorado/QT/CellRW/CellRW/photoncellrw/
+ls -lh
+ls -lh
+cd GoogleDrive/Doctorado/QT/CellRW/CellRW/photoncellrw/
+ls -lh
+git status
+ls -lh
+cd GoogleDrive/Doctorado/QT/CellRW/CellRW/photoncellrw/
+ls -lh
+t
+exit`
+exit
+cd GoogleDrive/Doctorado/QT/CellRW/CellRW/photoncellrw/
+ls -lh
+clear
+ls -lh
+exit
+ls -lh
+clear
+ls -lh
+python computeABCD.py --doEffs --year "full" --isoWP tightIsolation
+python computeABCD.py --doEffs --year full --isoWP tightIsolation
+python computeABCD.py --doEffs --year FR2 --isoWP tightIsolation
+exit
