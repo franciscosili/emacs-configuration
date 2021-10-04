@@ -1,0 +1,6 @@
+# name: image environment
+# key: image
+# --
+
+\includegraphics[width=$1\textwidth]{$2}$>
+

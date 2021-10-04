@@ -1,0 +1,17 @@
+# name: article template
+# key: article
+# --
+
+\documentclass[12pt]{article}
+
+\title{$1}
+\author{$2}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+$0$>
+
+\end{document}

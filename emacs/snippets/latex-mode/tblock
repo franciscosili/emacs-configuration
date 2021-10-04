@@ -1,0 +1,7 @@
+# contributor: Francisco Alonso <franaln@gmail.com>
+# name: \begin{textblock} ... \end{textblock}
+# key: tblock
+# --
+\begin{textblock*}{$1\paperwidth}($2\textwidth,$3\textheight)
+$0
+\end{textblock*}

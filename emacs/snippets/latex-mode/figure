@@ -1,0 +1,7 @@
+# name: figure environment
+# key: figure
+# --
+
+\begin{figure}[h]$>
+\includegraphics[width=$1\textwidth]{$2}$>
+\end{figure}$>

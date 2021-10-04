@@ -1,0 +1,11 @@
+# name: \begin{columns} ... \end{columns}
+# key: columns
+# --
+
+\begin{columns}$>
+\column{${1:0.5}\textwidth}$>
+    $0$>
+
+\column{$1\textwidth}$>
+
+\end{columns}$>

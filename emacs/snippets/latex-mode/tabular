@@ -1,0 +1,7 @@
+# name: table wo environment
+# key: tabular
+# --
+
+\begin{tabular}{${1:c|c}}$>
+$0$>    
+\end{tabular}$>
